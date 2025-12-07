@@ -21,14 +21,14 @@ The system consistently delivers:
 
 ---
 
-## 📄 Full Case Study (PDF)
+## Full Case Study (PDF)
 
-👉 **[Download CaseStudy.pdf](./CaseStudy.pdf)**  
+**[Download CaseStudy.pdf](./AI_Document_Intelligence_Case_Study.pdf)**  
 (If the link fails before upload, place the PDF in this folder.)
 
 ---
 
-## 🔧 Technical Overview
+## Technical Overview
 
 The solution is built using a domain-optimized Retrieval-Augmented Generation (RAG) 
 pipeline with the following components:
@@ -44,7 +44,7 @@ pipeline with the following components:
 
 ---
 
-## 🚀 Business Impact
+## Business Impact
 
 Across underwriting, claims, cybersecurity, and audit workflows, the system enables:
 
@@ -55,7 +55,7 @@ Across underwriting, claims, cybersecurity, and audit workflows, the system enab
 
 ---
 
-## 🧠 About BIS Advisors
+## About BIS Advisors
 
 BIS Advisors helps insurance, finance, and regulated industries deploy practical, 
 reliable AI systems—focused on cost-efficient self-hosted LLMs, hybrid deployments, 
