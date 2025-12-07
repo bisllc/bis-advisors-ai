@@ -64,8 +64,12 @@ and document intelligence solutions.
 https://bisadvisors.com  
 connect@bisadvisors.com
 
+### Full Case Study Page:
+https://bisadvisors.com/document-intelligence.html
+
+
 ---
 
-## 📁 Repository Structure
+## Repository Structure
 
 
